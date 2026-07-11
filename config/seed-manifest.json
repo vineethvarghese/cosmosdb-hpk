@@ -1,0 +1,45 @@
+{
+  "database": "ordersdb",
+  "container": "orders",
+  "startDate": "2024-01-01",
+  "numDays": 1000,
+  "ordersPerDay": 1000,
+  "busyMonthEnabled": true,
+  "busyMonth": {
+    "year": "2024",
+    "month": "06",
+    "multiplier": 10
+  },
+  "totalDocs": 1270000,
+  "query": {
+    "year": "2024",
+    "month": {
+      "year": "2024",
+      "month": "03"
+    },
+    "day": {
+      "year": "2024",
+      "month": "03",
+      "day": "15"
+    },
+    "baselineStatus": "Shipped",
+    "sampleOrderId": "ord-20240315-000000"
+  },
+  "expectedCounts": {
+    "day": 1000,
+    "month": 31000,
+    "year": 636000
+  },
+  "generatedFields": [
+    "id",
+    "year",
+    "month",
+    "day",
+    "orderId",
+    "timestamp",
+    "status",
+    "totalAmount",
+    "itemCount",
+    "currency"
+  ]
+}

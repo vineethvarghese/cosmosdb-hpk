@@ -1,0 +1,3824 @@
+[
+  {
+    "status": 200,
+    "partitionKeyRangeId": "16",
+    "activityId": "44d1b767-4827-4382-a820-386b9134327c",
+    "requestCharge": "2.8"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e7e122ae-70b8-4622-a436-ff8306bf0011",
+    "requestCharge": "29.09"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4eac8f7d-ea18-46e8-a1e9-dc6433d2d58f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c0aaa98b-cbb6-430d-8d55-81df6eb1453c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8def2ebf-7ea1-4583-8822-c7c2df9c8d13",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "632f1376-d7bf-4c3f-b08b-4fb12fcf702d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "93251abd-21ac-4088-aa36-c880b0311d5f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1723c5de-e26c-435e-a221-40d7122e34b9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "5f1d9b8b-5a97-41a6-bf2a-62bdfb0eabc0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "299e95b1-164d-4346-820f-46758566b479",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "002fd0ed-aaf5-43ff-83a3-4eca4380a615",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "bd31808b-97f0-4ec2-a943-a7f94d4525f6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3c4ca05b-67ce-4f61-bb76-c48b64c93272",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b8346e22-bec7-4bf6-9ee8-b838d3b76651",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "48bb8ef1-0c4d-4c5a-8743-4ee24accac45",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6971bad2-62c1-478c-964d-2a00678bff8a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9c9b5de2-cd7f-42f0-9298-8f6324f0b534",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1a52fb73-7adb-47ae-aeda-43eeec9be57a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7a4881d7-374a-4e05-bcdc-57c8c7315234",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4c110959-96ba-45b8-a4c6-ad7440448588",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "06dac6c2-65f8-440d-bea6-7232d4b36047",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4f0517c3-1f2c-4d75-9d62-4e7f7bdf1846",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f1709fe1-8054-4d51-9ceb-915775885b69",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "596915e7-208c-461c-a610-6da030400382",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "75e539fc-28e8-4438-bd96-a1a5c4364444",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7707e2bc-17c7-477f-894f-37f399c0f8db",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "360cad04-ed7f-4663-bf8d-f21cd03103b0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d74b8d50-fa0c-4b3b-a082-5cc0374d1ea0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3b59d5e6-732a-4c80-970e-36410ccb1471",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0c2ad60c-5cce-4a65-841e-2e69d254d752",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7cd2aa4c-1a4d-43b3-ab50-7c7774caee78",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d13530ab-b13e-460a-b6ee-8a7b8a21e857",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "dda1596e-f60e-4b62-ae80-b204279a7b67",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "09ad7749-128f-48cc-8741-355f00ab3fbd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ee29308f-15dc-4261-8f3e-094a86511ee1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ee124b37-e38c-426d-ad1c-d06079b60af0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1c700862-2857-401d-a67b-90ff1b14e620",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ff5a71e7-e4bd-4d45-9c5b-78dbdb7498bf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e4a7075a-ffee-45fe-bd60-15e8e66a40ac",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "76849621-5d30-4d4c-b503-f30acb7f6dde",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2105ab11-7d51-4247-9fd9-2e2912e530a7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8b9c7eb7-a1d7-485f-8415-f3f548745eed",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "bfc1c979-d0a2-4c00-a023-775fa2b75141",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "739d6517-b897-4ca5-801d-db26ccba2e3b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1f6cb6e3-abb4-49ba-9e8f-ad7475d9a387",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "30fc8e46-9493-437f-b1a8-fb2a995fb222",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f8629f04-e2c2-45e5-b242-ca1a2e90c373",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7051c9aa-5b89-4fd6-b34f-7c1a6ad242d8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a5e37f92-a18e-44d0-9350-ce7e0a676dcd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6e791f86-0fe7-4f14-a0ac-131142e122f7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9df5efdd-6b5d-496f-b22b-2853a8d4b1c6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b369b5bf-2dcc-4e4f-873a-3ae459900143",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e609edbc-abf3-49ee-9bdf-38d9a6828e7b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0bbcabea-c105-43ae-b493-643491139986",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e97c20cf-7d44-48c1-ad34-a61903dec252",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6e346ae7-6bfc-46d4-aae4-f491c40dce49",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f1d46ca7-1441-456f-9c3a-aa8066960dbb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8ba8a143-2fbf-4e3c-a2e3-dc61e0255d35",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d5a55f32-e526-4d05-b59d-8c105b65338f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f3a34ed4-f432-42ef-b587-9c47f8e41adb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "787cab9d-7e50-4700-b01d-5950d5ca7b33",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b7c4029f-60f5-4448-8078-dc3084da41e3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1e23a2f7-3d34-4d2e-94ad-5382e497a379",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9f229fa4-53de-4605-80e7-357446a02a6e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8c9a5f55-1e9f-4a5a-8e32-673553aeb6bb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "65f43526-39ef-4537-98f9-4f318431990f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "476a1c5d-2313-4016-b3bd-219bb9a1232e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7544a251-466a-41f4-b942-48cdf71dcc13",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ec549742-7950-412a-9fce-da81e21c7239",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "562c0663-f455-4ca3-9179-41af86dc782f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d5bd900b-0e84-461e-a97e-79ef9091b9e2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cb86a43b-47c8-4845-864c-3d98b7cb46f5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "32c3cd2f-ba76-445d-af6a-d0f08c622ba8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "24f31a8d-204b-4b9c-9749-7462a112de1b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cb8f2dbd-c6c2-49e7-b690-7feb531a03f4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cc5218b6-7b5c-4cb1-9219-702f371f4126",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "16cf3d14-ff95-4bcf-b55c-5c5957c110ae",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4dac87cc-0e09-4c71-93f5-72000cea9662",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "88ed1458-79f9-440c-aa17-00e437e2f965",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c8e061e3-5846-464d-a4bd-09ffcaaeee3a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b3096acc-f93a-4047-8793-2499339981c9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "58f80188-2ca4-4faa-b44e-7ef82748ee96",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "324c92c2-773a-43d9-a001-d2675b73ca33",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4ffe6565-c0a4-4f53-8e7c-eee7aec0891a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "dd028f7c-4191-4eac-a522-b3d8e538493e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ec720bdb-370a-4339-b695-9e2ace0a48a1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "dbc480a3-6a04-4b95-a96d-7c93f71daf95",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "152291f6-db91-40b4-a3cc-7fb99b5a7ab0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ba0d376a-32c8-4ee5-a201-384a24a61ba5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "17aaa2ee-5ac2-46ba-a8a6-da6050d98fda",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cd7fc97d-5c0c-49c8-ae45-1add48883ca0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8b439291-e7ee-4a39-82d5-e3891f08eec2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8195e24f-8be2-4422-a6f2-d464ed81d3d5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e97495f0-9f89-4529-bff9-36df4aeeb7e9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0963929d-fe3f-44e3-b94b-cec0bf8dadc8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "aa720f40-471d-443f-a8c7-7efe58ef5b36",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2efe9544-5ae9-435e-ae85-c88dbe4f5be5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4909465e-f190-4a6d-9714-94ca86d30a64",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "38fb8e53-e0cf-45a6-ab37-ba9ce283b0e9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "20c0793b-07a5-4639-8cfc-d8704bd0061a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "239f10a3-bceb-4886-8b25-9afa536e3a84",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "748759bd-794a-4665-925c-7e648b588add",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ddb8f7aa-79bf-4dd3-9a74-02cf059f5f80",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1be2b379-d4b7-401e-a9f5-441c503263da",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1a5ab32e-1545-4413-8559-14706be950cc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "16559741-b8b1-4274-a8b2-abe910076366",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "41178c59-ff97-4a4d-aaa0-e613fdcd273f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a8dc8e7e-2887-400c-ade4-e86ec9a2592b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "51b09ec0-5d05-410c-b36f-51ba7e165af2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e87f6787-2f7e-41a6-945c-4b68c32a78bd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "682b0d8b-0f74-4a2c-b826-449bc2a72940",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e7db32df-187a-450f-a94c-246a3af57331",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "372f946f-50ed-4c6f-b6bf-e3d4f08b79da",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f652f5cd-c219-49ba-a094-a34ca20f4164",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "14d9b503-d650-4189-b2f5-aac0dcc2ac36",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ebd225ce-f242-4058-ae43-262ed950003b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e69e68ad-18e3-494d-95e8-3d71d058a30a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "adfeabb5-a3a4-42f4-be45-6b4563589d9a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0cb704fe-0eb4-488a-9622-43e71582e121",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "725faf4b-9d2b-4e97-858b-630dbdffb06d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8cd7371c-a4ae-4344-8660-36072def1380",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "baa313a5-ddb9-47a2-b135-49c72502eaef",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6aa8b502-4f22-4b8f-b00b-c08897250fa6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "aa671ea7-79ef-4e73-995f-c7cfd0e36987",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "99f241f9-49f2-4971-9e54-9c7b63f4027f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0d1a135f-a02d-4476-a67f-5fa8a44e89b8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9bd29808-22cb-45ca-b791-52d72dc524cb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a25ede24-03e6-4667-b563-77f4e650961b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2cb7a66a-d907-4c87-8514-051f9b772d52",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3a1b9cab-30f2-43a6-993b-869c931d36a0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e602a6b2-c7bf-441f-9f2f-13581833a6ce",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1f8881f8-7ea2-4aa1-9b52-5abbeebb625d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "32c8cdd3-de3c-4c69-ac90-42608bd15da4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3587558f-f83d-491a-b482-ecf06d2dbb40",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "03dbc142-d109-4482-bc4d-2c7def0a1c2c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "116f4edc-ca44-42e7-84d6-38a412b8e9fb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "91db8611-c86e-47d8-8240-a0ff268220f7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a79236eb-437d-4d4a-a8cd-89874075087b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "43c40481-54d3-4e53-911a-1f1fe91cdc7f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "884c4bc4-1915-45c5-8dbb-704b8fa823a8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "79d2ea3e-5a35-48b9-80d1-796b74f8daac",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "047f9b48-2b21-4a0e-aae9-328c15b9ce46",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f038efb2-9226-46ca-b7db-bd17328ea7d9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d80cf56b-b982-4ba6-8e34-43101701aeba",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9fcabf6e-ed30-46bd-b30c-ee1ca3df4955",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "181ea29a-10ef-4390-bb1a-4ec84348d888",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "53afd71d-b11a-4ea2-bc35-51f4747d8a63",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4cac4996-e8e8-4ca5-bd0a-489958dc09d8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f7e155ef-0525-4da0-b1f2-59894e40d96e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7e2465fd-c081-4b6c-b5ac-24e01afea138",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "70cf6082-5bd2-4924-9cfe-8e0068c68a9c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d1d166c1-0981-42f8-90ae-f60f449051d5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "30ddd7c2-16ec-41f3-9a18-6e2b471280be",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "5079939f-6ce4-4201-882d-e75ddeac7897",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "67e0e9fd-262c-4afd-9d5f-6d4a23948277",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "763e1093-e1b3-47b0-85e4-b81ceace2122",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a2f91117-3568-4dbf-9ed1-46c699e746fa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e35948a5-a8e2-44dc-9fea-00a19ec82e72",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "479d5ae3-c301-4364-9a61-34c762a35a5a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "415f3277-2d49-4927-828c-e952a85a843a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "895e9391-8db7-4dca-8621-e0c50ac4b3c0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0286f36a-7113-44d8-85be-f8bc2825b391",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "48c65583-b4d2-4c3a-92e2-2ab7c4b07059",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7867afe7-3d8e-4e4c-82c8-999f21f08b7b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "734bd926-ee7f-41ff-a0e2-2ba33d469251",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8d3784f7-fbff-47a0-8543-ead2628d9338",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4784b08a-1781-48d6-a1bb-8b97d132edb4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3deb641c-3ccc-4628-b55d-feed36f3c394",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "69b6c8cd-7011-41fa-9a9b-34325919c257",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "23c0e024-13b1-47f1-a06e-8b0db7e86450",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8c401286-7944-4d0f-8121-f8cc98bebd7d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7a2cac4f-0144-4751-b695-bee4d7c91ba3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f62fad3e-66b5-4b16-a6c2-fecd2b76c0ae",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8aea90ef-2717-45b9-b850-c29062db0abe",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "57125d73-7dbb-424b-ae19-3a0381568fdd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9182d115-d9aa-46e9-b460-5e311bc71920",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3b390bd3-d9a4-4fce-b352-32107893568b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9f6a88af-4f74-44b0-81d7-ff933a57b514",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a047c9ea-ba77-4b26-91c8-2393d814a28b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ce304e85-5447-4e06-bf74-2c361b358094",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6b9e4461-f7da-4339-9f1d-294aed432309",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0d38dcf4-b7c3-4422-bd81-82c03e13fe37",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8c849010-9b16-458c-ab02-322ef2658cfb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "32624a78-7339-46be-adaf-cdcac38a9563",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "10bb5c32-f079-47a1-aeca-fec8537de975",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "23300e19-d756-4aa6-81c4-1415932f9b87",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "209f285a-6b7b-44f7-ab4f-923b63ff58ad",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c3f6845e-1d5a-4313-a6c5-407641e01739",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7dc3f7f4-360a-483a-a015-190989a7bffd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "72ae3845-10d6-4399-90e2-73949b67aeb7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "acb42950-d1f5-4a02-98dd-5485b0807b40",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "de33fc23-8a8c-44b8-9d88-0940368a8e2b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "89692ae9-ebf5-47eb-9ec1-742f4c6e876c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "300167dd-1971-4eda-9d5f-05496f5abf52",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "291f4f2b-464d-4561-9ffd-7a7cadd46ded",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fc9594e7-6141-4338-8e1f-29bd6986f688",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "af7d349d-c3b8-4bd3-8e1e-362875446ce3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e800ea62-f0a9-4af8-9064-aa435ad86234",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f3ebd76c-c940-40a5-8eda-1d8d43449016",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "4afe208f-4dda-4345-938b-7817a07c74e4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c36f0d33-f723-4bf8-9341-7be9bc43cab6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0f1ee48c-e607-4c74-b461-f399fb2d7b21",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "48d3903b-94b4-4712-859e-c8cbeb2b7ab9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8fca38e7-6971-4af8-971f-9cf77ee96682",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7b6850f3-f3f9-4409-b492-3ae61e97f3c9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c499b01f-829c-4046-96d5-53b54ac7834d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b64a9652-9c70-4d4a-8f62-dad13899cb53",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e59bbd6a-325c-470b-a8fd-2a9f5b86e996",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d26a4a91-7524-4cad-bd8c-4a6b2355cd20",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b428b155-31c1-45ac-b4c5-e5e247622816",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d7536159-d90d-4756-a80c-183ef72566db",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "338179df-2434-404c-8c43-6a260ca1a366",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8f17920f-8fb7-499b-ae03-dfb4896b2ca5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f0b3a4ae-d5c6-4657-970e-63e312f6c458",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "14f25a14-5901-4056-8f81-1fb80f650999",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "543ff20c-5cf3-4d16-92da-d2c3d60b2fd4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "644feb47-7af9-4dc7-bb9c-254ff9f2c248",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a37feaa1-98f5-4495-8f64-65e21995a603",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3982809c-7a3a-4370-a3de-640997697cda",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2088b4e6-12ef-41e0-b654-df645281a531",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "eb57d265-96ab-4de0-9623-8acb1191a34e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ede1171e-07e2-4c5d-9438-bf8673e97ac9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "22d28432-b73a-47b3-9f18-0ce678606893",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "06926d8e-1d4a-4759-8b78-682e6e2118fc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e8be3936-fbb4-4e0a-8fa4-2c3b51998257",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "32486f8f-3574-4b26-b9d3-7c14f3d61180",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2418f390-e532-40ef-9be0-972db5f9e1cb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "afb881cc-56d1-4d6f-9ef1-298852c902b7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f758fd80-ef89-42e9-a61c-b93e98bbd475",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "763aa1ca-cb17-4922-8eec-41bfdf0c6557",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "88afe9c1-de3b-4532-8afe-fa2b4b9801d3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "dc019f76-051b-4f53-9a5a-595e55619f74",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ab0fee4d-b4d4-46cf-9abd-9b8baa2cb3db",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f3b050d9-3251-4838-acdc-e963727e5dc6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "93245c23-d6e3-44c4-85f6-a1965d784da7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c8af7315-e6eb-43b7-acff-b5e0ae925876",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "73f12629-1c8b-4530-afa0-70c2f9736bd7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a2b493b5-c798-4754-a8de-c7f9184148b8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "80abdb42-f018-4cd7-bb84-4c7344cb454e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d1134ad5-12cd-41f7-b4c2-6998f0fb4957",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3d5feccb-8ff5-4846-816a-2ffc4ec3f3a9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1ae36beb-94f7-4ef8-a312-e7e16db0a63e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3b33ff89-f07f-4932-ace1-d6ba2aff0acc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "88f3d511-7def-4f98-bbf5-d2c5be4ba65f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "dfd98390-0ffb-444e-9f33-1f5c7582bf2d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1ef57f45-cf25-4f7d-922a-bf85e3a7c568",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "25a38f84-11d6-451e-8725-3966356ce8f9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8187e46f-8850-4c72-ba60-77d3e8469f35",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d2e466cc-53cd-4454-bf75-bc0f4a5cc8d2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a4a5fd1d-e573-47a5-860c-068009202c46",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "782b81c6-e7da-4def-ac3a-ee5830e02353",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b4b794db-b5a1-48ee-bb65-df270e9fe379",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "80528a4f-d5e2-4548-bf57-90f5500dafa4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0dfda16d-9a76-4dbe-a545-809165faa2e4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e5d410e8-e29c-4bde-81b2-4e03efc7a50f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e946c337-f671-4480-be3c-295cbba72302",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b608c6c8-855d-4262-a2d1-8ff0a54bbb86",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a94c14bc-d04b-4ac9-843f-6e5041029036",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d3ea22be-236d-4090-8c97-17d81705fcdb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "65e71799-c225-48b5-84b8-b4a3270a9fe0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1593a03d-5e64-468d-bd6c-b4f61397795e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "bfd35338-51c8-48c2-89da-0fc0bf937268",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "33f00da2-d4e7-44a3-bca5-9868949aba5a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d94f3e21-f034-4caa-8395-bd8f03d99ba6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ccf8d3ef-f723-4a4c-a51c-36e0e9f6ded1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f1050075-3077-4579-a9f7-a2dbf1c5d9b4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "201bc9e3-f9b2-4965-93ce-4e5cfae29b3c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f2f0137e-35aa-4dc1-9e0c-1fd320fde61b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f3c49980-17cb-40af-bdb1-604f69a27dc7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8542a22a-84ac-48d9-b60a-af5f6f2a291d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cb216b0b-d42b-4a2c-aef8-3774cdf1db3b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9048e3aa-317f-4fc9-8ebd-40f6b75239fc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "05526704-c222-4ce6-b042-20888de47f94",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "85e7ba30-8fc7-4219-827d-120cea7681fc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e2ff43f5-7901-449b-ac72-82bcdc4dea92",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a62e04bc-0096-4f9b-8fb3-063f29faa992",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "899ad0c2-d8db-4aba-8942-a23709233ebd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "216fbe3c-1223-45c0-b263-bdd21837df5c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "7552a58a-15c3-4592-b43d-2f7e51c08b4a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "915b8465-b1af-4051-884c-59ebdd21c8a0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9931eef6-8108-46ad-b28e-87cc96c7fb77",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "73b9a8de-cbdd-418c-8d58-d3cd6aaed866",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e3768202-812e-4288-9bcd-3f9999b0da8f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "81e4d356-1e04-4c82-93cc-8137c8ebf415",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a5ef0151-ff31-4743-b4e5-3ff1ffe5c442",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "9383f0a8-9ace-4b70-b4a5-86c881160579",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "67ae414d-b47a-4ff7-bdaa-d74d5aa501a1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "2d6dcd56-9b7a-48ae-976c-604a641903b9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "56b2bde8-26d2-411c-b44a-5ae3c416b678",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fb572eb5-34d0-4184-8d0d-e12f56a92552",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d1e42804-a5db-451b-9e25-12a5e3fd4d82",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3ec48320-ea87-4613-afe6-233901c5b313",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ffacdae0-33db-4f99-9846-209f945c2dc5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "75236692-0a9d-4a76-90d4-a68a7c52e1bd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e005f087-4f19-450f-8d7b-af0b21f525ea",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e3d6cd39-8c43-4f95-b90a-c4077921ffea",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a895fbbe-d5af-46f0-a2cb-4ff97a823ad0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fc89921a-a92d-4613-bd05-389f3d0f1527",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "1605877a-808f-46c2-b62a-45784e4c1b50",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fad156ba-1772-43c5-affa-0a04b319ba6d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "f54df047-c6ef-4930-b2f9-b004ff47d6f4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "6cf02717-4632-49c2-a22f-8334f52ddcf7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fbc0a846-27f9-438f-87ff-a7d0d3ae4243",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "5ebc44d5-bb66-4368-ab48-110ee9c8bd6b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "daf1e89d-5bc7-434d-a512-50558f444fd6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d6a452ba-1e3f-46cd-93d5-976410bf6af0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "e36a1210-2b7d-4640-bc30-97a1dfd6a304",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c8545ee8-0aa3-4fd1-8d01-973e0f593188",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "cfbe0f15-24d4-43e1-a1ee-1e5cc4aaff11",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "43af0751-bdf7-40d6-8f90-02e4724e7dd8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b6a8fa9f-37b9-42d5-9ac0-3bf77b3bb9ea",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "5a1d9346-7cc8-418d-a6ed-249b8444727b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "d012a81e-c9ea-4161-8cbf-fcc1983a18a6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "fe4fc7d1-ff02-428d-9615-176971b0a94c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a012dd2b-fee1-41ee-aaef-4948bab9acbb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ca0c2025-d8d7-4d0d-8f5a-9a6db5d62540",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "97d9cd99-336b-4499-899b-fa19f31c0d88",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "79bad166-efec-4fc2-a49c-135493c25b9f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "92344d93-0211-468f-b7a1-bb50a18baceb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "52c20834-9573-4652-b2df-f3462c15f703",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "df0618db-b28b-486f-a6f9-29379d83caec",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "249580e1-2062-44e4-80cb-a39f578e5ade",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "b1fa72ce-65ee-4661-84ea-174628bb7ecc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a1d104eb-b7a6-428b-9772-98b92afa67c4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ce90f643-f32d-4932-a0a8-3817ce5d5cf7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "55b4575b-757f-4028-8db9-008df4475fbf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "687ba115-839c-48ad-b0f1-be0e5b99be76",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c3972ee5-cf7c-4f02-b5b5-a2b10ef06304",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "447d9140-845d-4145-9127-eaace3136819",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8d8eaa49-e19c-418f-9293-e6b4056eb2f8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "55313a70-b959-4bbd-98bb-0d2b7b37ee8d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "78731b80-7e2e-4a9f-a70f-e17becb6f860",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "c510a663-ddac-4940-8a58-7cc9eb6b3b75",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "27736d75-9b5c-4334-a512-f16ff520d967",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "450c05da-77d2-4e9d-ad7b-adc4ce8e5b61",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "a8de6bc4-b348-45b8-97eb-aaf1f28f7b97",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "0112f8b0-eabc-4364-81b9-a039c831339c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "3a02f07c-2cf1-4421-8069-1a066057488c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "124c74dd-ab95-4932-b3dd-6cc17fffafd5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "5fc52e04-fcba-4a71-8c76-263c015f52e3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "523e00e7-d50b-4bee-a9e9-7d5c8e7b55b3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "ee59e712-b00e-4a2d-91d0-d39c81951bdd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "8bf2a65b-83ff-466b-9a96-998064a02d64",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "11",
+    "activityId": "31f6b7c4-2277-4f4f-8efa-5b45deb7247d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0c3305bc-b64e-4a12-adb6-2d56e48f10d2",
+    "requestCharge": "29.08"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "89c23eac-7b97-475d-810a-26aff36634cd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "09cf4e83-4e61-4c70-bd0b-de1dfa768186",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "12f09f3c-9489-44f3-aaf8-47650a9e67f3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ba2f0199-8b37-40a7-8f31-373899abe008",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3c421671-bb5a-4288-9a4f-e04332e4a286",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f8bc52df-8f5b-42b6-b8cd-fbbf7c21fbcd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c44eb16f-d3e4-43f8-b88e-86984c1518db",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7ccfaf6e-8147-4892-8b45-6dddd4c8b6d6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cb33e27e-9d66-46d0-bcba-214c06f1e143",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ec1e64b0-4db3-40a8-b006-9378a8191710",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "02641150-0ff8-48de-b4dd-2eb86e05f5ff",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "335063bb-da79-4497-948b-12b9097dc023",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f30246ea-bae7-4ef4-bfc7-c9ae5bbcf4e4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "743e4788-e6b4-43a4-9b41-b015c480c086",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e68d2500-d5c4-4175-8f20-771dc256a8bb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "333af2bc-137b-4cfe-8f5e-3839e448b393",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2b5229d6-f2f1-4d00-8a3c-613470b22bed",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6db080a1-76e4-454b-b087-ab349835e5a9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a82a49ab-484b-446f-b49c-b1121586f90f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6c14aec7-0a6b-49c5-9ff8-754b49502187",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ab727870-1cbf-433f-8f39-4c24e3d2ad9d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1fd597fb-3b75-4af5-bb8d-5f2fbfa98cab",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4772f3fc-c310-41c4-bfc9-4a66199029f9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5e24619b-0cc3-42fc-a746-624e6a170d73",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5ece239c-efb9-48bb-aea6-d7f9f4f607bb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9058a218-b52a-448d-8338-9d5253544a91",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f757b699-0d1f-419e-a5cf-189fb909783f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "99715785-5634-4006-b2c9-1dc30d31053a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cb37a51c-9161-4357-a643-da586f98f007",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d94e417f-cca5-4809-8c6d-05886e95e971",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ec2daf96-d3af-42e7-b73a-cb00d8c36fcb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c2330e3a-7fbe-4fae-a7b7-52e063520b2d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7f85fcb1-bee8-4f27-90a0-94748a09d34f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9cc15296-5352-4c65-b028-4f02505d573d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c5ef5620-cfdb-4d02-918d-139a0c84365d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3792e044-b4ee-47bb-a7ea-0c7f4a4d901a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f780244b-9522-4faf-b59e-cedb718f2e22",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "27c05ca5-27a7-4cd4-a19a-574228006ad9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "57dfefb7-3fb6-43e0-a443-97965937d7eb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9d669b62-299b-4c2c-abf2-dbcf344be49c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a59d1f9b-b72e-4edb-80cc-0b68d83516c3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d2aafa5a-a7d4-4459-8f22-3dbe2a917505",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "bd69a23f-856e-42ad-8be9-8aace4da7ba0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "89d97ff2-0a42-4269-b6c4-9c7a2dfceb09",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "94e2f27a-9854-4962-bff6-d6e6ac87a364",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9d391e79-dd25-4b37-8b2e-95d4f635d1be",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f1fa2826-f90e-453b-9f35-9070cbc7bd30",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "43c42591-78e0-4b91-8e5a-ccd605c51724",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3503d756-d0ee-4a16-a68d-00aa2727782c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1b2ff2e1-759f-4c4c-bebe-328ff298d713",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d26593e8-e1a4-486a-b999-b67baa24c535",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6d19be73-d205-4a88-aafe-8a5b1823ef3b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3d7a24ea-fcd0-4b98-ac76-64c31722b8d2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "606bf0be-2f94-4b78-a356-e4bfed05d76d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ff8eb2de-78fa-4a31-8544-2b438c2f3b00",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0df96c75-0c78-4cd1-b43c-da829526f95c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "324ac24a-7091-45e2-810e-7967984fc55f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "380c2aaa-bf15-4ea7-a467-04fd57df0f6e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "42dbab2c-b371-4a25-9969-20beeb58cd74",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a32aa9b3-e893-4af3-afc3-9b27d9996a2b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "68aae813-9efc-4061-8ebb-b649abb06368",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "66408c28-6323-42f8-92ee-96f6c30a1292",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f9defd1b-687b-4c4f-b1aa-ddcad14ac9d4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e7dfc274-f291-4d2f-ac59-aea0d70fd9f8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "02f0f721-4685-412b-8d3a-2e61aa4344dd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cdf9a372-17dd-4ce5-ac4b-ff8f3ea759bc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3b6ba394-64d8-4ee9-a379-8d762f25ed84",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d5ba81b9-ba47-4aa6-aaa9-7d1ed9543273",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1aa731b5-2f51-480c-afa1-5664d8d4292c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "407c4fef-d465-4e7a-b6f4-55a770681867",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c36f399b-90a5-477e-9c46-32eabdfd6d63",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e36b23ed-ac3e-4c7c-b6c1-64a0384db5da",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "41baad99-5c41-43b8-bcd2-6beac1731955",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "585d1b59-7491-4d2c-85bb-53d2f74282b1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "004168d1-ac96-4b49-b661-49636cce686f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5ff2ad4d-be86-4910-a4bc-0cf892592da2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "86beb383-403a-4584-a3f7-12e9503bf5d7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a1ca6ad1-1100-4a5e-ac42-e630a2439e5a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "804cac5b-25b4-4846-9af2-00db4424b0f0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "90573125-fe83-41ba-ac30-6f744d90381b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8c522443-3083-4074-8d01-06c9683e2904",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "327dfc7c-fb44-4b49-a11c-0f8dacd9e3fa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "55196d7a-bd40-4f71-a443-5f6ce7ce7f5d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "80343d7b-63f2-4807-8af1-69f8feffb20f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6a108bf5-4bf1-4947-93e1-556875beebb1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4c2b8cd5-f0bf-47d6-9c7f-d28210cf9586",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "078dd6d2-d13d-485b-83f5-43cbe03ce1c1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "26ddbe90-3f2a-4c7d-88b5-d7a02d261f34",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "09579dc6-a5b3-42d4-982e-1cdd12dde11e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b15d3809-e7cd-413d-bab5-35aa3ac59d12",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "de49c6a8-7a08-4a2e-beed-6df087a5f51c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "817ae6a4-47af-491a-af2b-3626b4e9670b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "afb193bc-dca6-463a-8a46-860401fec765",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "332e6fa5-5d7c-4ed1-bd0c-62c1af64043f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8bdfe114-8b44-4f35-87bd-83672e8ad72c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0e4c4ce0-169a-4128-af37-b4d5f209ac56",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "460435bf-2eec-47c3-9637-7a8faf8a40fa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1f5d08f8-de6b-4708-bda4-a1cb0aaffb28",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ff69ce9c-7732-4d91-b3a9-f1f09e099d4b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "bafb4e2f-10f9-44af-9b13-34b5924f0621",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2598b42f-6835-46fb-a269-6b36652a8343",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "837c9016-3b53-48c6-95c1-64bcdf2c0aaf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3473d8f6-58a4-42cd-a855-68432cee7e99",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "fd44ca9c-0e81-4c67-adf4-95b42e3cb2f1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "13e3a037-7962-4da1-9615-2be9ce48dc7d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e73ae50a-81bf-4719-9a23-a7cc3c3e61d9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "345ff04a-b5e9-48a8-a221-759aa2650baa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "04e83eb2-10bb-4458-a002-05b208d28ea7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d4aa816c-307a-453f-a2b3-d970d63fb9ca",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1aa00ed0-c068-4c11-b84a-2818f050ca74",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "fc5ca1f6-ee29-4284-9d8a-277d3d942ba1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f618fafc-03ba-415e-ba32-ed4a9cc6f5d7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3f1bf162-5f64-4035-9de1-c9a7f340831c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4eb22f21-405c-42e9-857a-f5c7cb2c6adf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "598bc35d-66b9-4cd0-87c8-aafcec040b8c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9230fba3-9cc4-4abf-aa18-7f9905bcaf73",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "685eae33-45d6-4eba-93e4-710b04b61720",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4d76b39a-b330-4f94-91da-c4fcf8f34ab7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "efa7a574-8d1e-472b-a04c-98694cf3bb15",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "46195208-d831-4288-b3d7-2363a55127cc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "131731ac-5954-4c3c-87e3-2952082e5fa5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "54e94644-92d6-4cc1-baa9-1cc9d18c70e3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "dd1a4de1-bae8-4b7f-9527-084ed0b8acd3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "11a3915d-ecd4-4808-b911-e4f5cc969a54",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ae279d0e-b005-46f7-a960-b0106528e600",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e541330a-aae0-4dec-85d2-64f0b1897684",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b3b94422-22b9-4998-9e1f-49e9e593beff",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b019a958-d665-4fe5-b035-682090729e76",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f89e1aed-c4c4-4fd6-b388-edf48150e117",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ea623d7a-94ed-4069-b2a2-9bb2e4913325",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ba7a83c8-d9a1-4c2e-a9c9-a8741a68471d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4e483e7d-58b5-4fc6-a739-569004f5f3ed",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ac5bcc83-13a0-4c7a-8e4f-3fec0553d1a5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a4cc1b70-17ab-4768-a20d-bc22981c9c68",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "813c1d20-2f33-4c20-814a-31986b4b7965",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "41cb17c0-e34a-4556-aa1e-22cbd6b13e81",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7e962685-da7a-4dfa-a040-c0a7cd1da950",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9cf8bedf-e19c-4cca-afe6-ddd5df5b49ad",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "598fde94-a56d-46f7-9907-c493ad6b9300",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "43ec26d5-ab33-4860-aca2-72688eab01ee",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "dbafdece-f423-4a74-af33-d86262499b57",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a1eec59e-097d-4285-b7c0-b793c9760828",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "909dae3f-9e54-48d3-b6af-6b7934833f81",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "91c906d9-e635-40aa-8241-d53f65adac9b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d1e91115-99b1-414b-95c3-5549ea35d31d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0b82985d-98aa-4ea4-b00c-55c2b63831e0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "792e1813-2ff3-4f32-b7c5-0e6e48a1851c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "82eaf8cf-cca2-4f7d-b7dc-e8de7f7e7227",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "aa6b70da-2ffa-4a10-9750-e51c5c847341",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c9f10e56-4a06-4e4f-bbd1-108756ac9b9f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7c3c7a41-69e6-48f3-ad79-50956ad4d330",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "aa94b8ab-5e98-417e-8c89-5b6450233850",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d0cc9f29-7c5e-4976-9a44-98bbcde29d6e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f83215a5-14c7-4418-a059-02ddee5ac2e4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a9aca1ab-1611-43d1-9980-befa3df6fda4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3ee32db3-69df-43d6-9fc5-ed728363ae85",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7ddf4be2-766f-4d5e-b6d1-f2a4625fcbfa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ba2ccc5c-8ad6-4295-a649-e31a7c577b5b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5ef6d424-5880-4604-8e69-c600b0d04cea",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8f4b0114-d9de-4596-aa47-5a0b5e3a6ff4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ab1df080-7250-44aa-83ac-bc7b394431cc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "14dab262-f782-40df-8188-39a0e3445138",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4b256f27-5bd6-42ff-a99c-6e96840a175f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7cfe5caa-168b-4d6f-9d08-782b1df59bcf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "763f46b7-f5e4-460e-8174-6132931e5ffa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6f63bc90-5f43-45de-9d10-343b488107b1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0c5580b2-349a-41c0-8fe5-0bc31e21b828",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a896cf7b-fad9-4a0c-b559-f6e4582e12d4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7b0b8d5c-13ff-49b8-8ebd-d6277c03e441",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a113a636-68f8-46c1-afbb-8e040cf6ccbb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8a274522-3f79-457e-8887-4695912e1ba7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "58e5496a-a7b8-4d44-b13d-8045663863b6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "277edd87-b6f7-47e4-b909-7448ba385ead",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "336bc61d-ba63-48c0-8452-6d3bc13c6f62",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0ef78de3-219a-4ee4-8097-2f00b3afaf81",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b0aa46dd-9732-4ed8-abf3-993bf35cd240",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d80d910b-7d8e-4edd-81b3-2d72d45d82ed",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5d1b14bf-abe8-468e-a29e-25ef2222e21f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3a701723-9bfd-4d36-b46b-569f116dcb57",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5e1d053c-1e1e-4cf6-a1f4-6d363e065737",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cb171d46-ab44-4b3b-82b2-22a6b45ebec3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b6abd626-e4a3-4de1-bae8-f5cf1febf43c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b1a2e4b7-f5af-4113-a99d-ea11be08fab2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6c0fb2ff-8174-4a48-b88a-5f1c5988a465",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4d50f675-cc96-4a00-a0ab-4031fa11c317",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "729f0cfa-9272-4455-b261-3b3d40ddbde2",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7e25146f-bd5a-4c37-95ee-59cd6aed095c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8dd69026-e17c-4155-af07-473d991fe217",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b060840f-5c8a-49d8-9129-906a5056fd55",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b417de81-96bf-40c2-8e1a-ee3bf706e75c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "107e715d-6c4e-4d5c-af97-99cf3ccc07dd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5d9bc62e-1c32-485b-b944-c8a0b57e57a4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6b27d18f-3b27-451d-a736-8796547c3530",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1d42f84c-b10f-420f-8fab-61967db9df97",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2e235df4-7a64-4543-957a-e5411f5211f8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3de250a6-3649-4d4a-82bb-3470119b7cf9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2f7d489d-cdd0-4263-9172-7d793a1cf90e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b6d7e352-1bb8-4fe0-b7a8-6826e3b2efe5",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2e9c420b-9748-4a48-bd2b-40a5d7b5239e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0a887fce-6f13-4ad0-b262-93039be2b7ff",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7e09ae18-37b8-4e0c-8f55-6d0d27066b88",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b22665e5-e400-42c4-8326-60053a9f3e42",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "37adce6d-eb92-482e-998b-e0bcda612050",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "22cb8787-4d37-49e5-82bc-d6f792a92d97",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6352d4b1-0267-4938-8b19-8fec3d90ad17",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "25c354ef-de30-4bcd-a681-9e107ca24ac7",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "08ecf2be-304e-436d-b30e-7a3c2c247339",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "383a91aa-8183-4177-84eb-622ae69d32fb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "40e6fe1e-40f2-4add-b744-278a82e76ff4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7c63206f-d55a-4476-8093-304b1e6a3d96",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e42fdbbc-4745-41b7-9fea-db4a9f8d31ff",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "832d9a3b-85ee-449d-be48-16741d92571b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6c559b6a-3d52-45a3-b914-2aacfbdabfb9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1921bdc4-67fb-4de0-8754-961e3728b040",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "82e9559e-3d61-456d-9097-a85d13f193af",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "fdcc9563-3452-43a7-9537-acf4683baae6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "436b11a2-4861-4b64-8a42-6be6e26f638a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "925ee36d-5186-4a26-8cf7-ae4b0f4f2342",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0ac08483-18b6-40c1-95a6-b5d54258732e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4363ee7e-eedf-47cc-b297-86a174b7935b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c3737fb1-5331-404d-9f86-42185b94cb65",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ad60b7ca-ae50-41b3-b3f6-6f58c1f5b654",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f08176ad-4a62-4f61-baca-3e748aa654d6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c7ee9ec3-180d-45a4-8a13-0ed851e4866e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "583b590c-f852-4097-828e-448f220bdc55",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2c1634ac-396f-4332-b136-7bf2a81d57b4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cd9305f3-ce9d-4087-b4ad-83a61cb455ef",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ff02a9f6-fe2d-47ec-a270-8cd77904603e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "51f436f5-5fcb-46ce-8f7a-cae39f020aab",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ae8f13bd-3572-4d86-8bb3-10e0898822dd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0485e598-88c6-4204-9667-ffffb83d2979",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "28c67b21-86a9-46c5-ab4a-e1ab29f7107d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7d38d5d1-432b-4334-92ca-4813fb83e7fb",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7b3e7ea8-7b55-4e81-a7ad-4f827852a75d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0f8afef8-4109-4d81-b590-1a72916e053c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6967840e-f727-48a1-bbd2-81905ecf8cf0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "79755d8e-719c-4a84-a0b1-a51cf849c5cf",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "22e4c29a-6e7b-43c9-9d8a-ebe755d05599",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "9a586965-ec70-42d4-bc30-a953f9b5f478",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "399b337e-831a-4927-8aad-1fd11ae26b2c",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "220805a9-1751-4b2d-874d-bb81293b1191",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ac3c3b97-5b01-49ac-add2-c3946c8e0b69",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f544d2bd-0634-42bc-9c23-29e0bc41ae0b",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "dfc403f0-6da9-4801-a15c-1ae7b7d828dc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "045883d0-9a29-4cbd-bfa0-3312bfe1cb04",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8a1b4865-7c18-480e-ac3c-37311c575d48",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "6918fb97-b111-4e2a-9d09-e102615a042a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e9f635b9-da69-4d98-be74-fa8ff77dd06a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "01ecdef8-3c87-4054-b96e-24e7cc0b44e8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b5c29f1e-5c61-4071-bea1-be0db3fa6483",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c5f3e85e-cf96-48da-940d-b1fe004c7d3f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e075e0db-3bde-4b90-b9c5-da560a119126",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8efd4558-80ec-4e7a-b8b3-2b69cbd31faa",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c028995d-1992-4176-82ee-a66f9ce002ce",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "0abcad3b-3d20-449c-8952-43081ce5ccf8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2f7a9b27-dfa7-4856-b547-d2d14920b55a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "511652bd-3cf8-480c-a9a4-37c0bac6a0a1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d0fa2a9f-87a4-43cc-bb82-7a58aaab2c86",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8485b1cb-e8c0-4e43-a599-1e1345e21c9f",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "c4f9ddf1-941d-4530-8337-9ee85d4e8282",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "127e53db-308a-4a4f-a99a-1cabee29a8f3",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3682a6c2-fca2-4b2c-946c-802c8b0de6da",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "85b44ca5-c3c2-4496-b3b2-f79d56d45186",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "5250e9ce-1a13-4887-a3c9-5799064ce0cc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "240261f6-34ce-4794-9e22-866f80da3481",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ade70e3b-50fc-4d74-934b-d537df0fbd64",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f4c02aa2-0677-472e-bd94-b04bc6b603b6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "e60c7fbf-c749-4f1c-b935-7dfd8e2e6f00",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "4fe79285-8bc9-480d-8fc3-15426f4b819e",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "549c3495-593a-48fb-87d5-b3be95daa3c4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "ba146318-8552-48ad-bdea-d3284d2fcbe6",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "d63a3724-998f-42c6-94ce-943ffa72092d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "a997704c-cd57-4b50-a0aa-bbe6370cfa6d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "be97c845-aa96-4df9-aca1-c4c3a73206c1",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7078c7ec-2d19-498c-b9ae-31c4aaadd7af",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7cf27cd8-6c79-4240-95f1-85199c8bf2c9",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1e240782-d6bf-45ab-9dc5-63af3dfff893",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "cb1439ee-c571-4890-9295-c1d11d241ca0",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f7bd514c-cc60-49db-8cfa-10f619f535c4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "2ed7e677-7135-4693-898d-28b53779a876",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "fcdd6440-3560-476f-b9cf-db639efd7cf4",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "31e4fa0d-5d7c-4b65-a0e1-654cf4b207ab",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "7b148625-1f14-4150-ad69-e18b3b76bccc",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "88ea6661-8b1b-4f48-b693-2d125bdd6ce8",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1fde41be-ab2c-44e2-bf95-3adad019596a",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "b04dda52-c1d3-436e-a11e-f797136c1178",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "3b11ad89-ea8d-4b97-b7ff-b6d1a261a325",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "fdf69e4d-6e74-4b13-8387-29c47a3d8c71",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "1d6eaf47-8e4e-494f-a072-c8db6c4269dd",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8f41ace2-79c5-4730-9c88-0e9b09d2ba19",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "8278a9fa-6bdd-441b-af00-3a56877cbf8d",
+    "requestCharge": "28.98"
+  },
+  {
+    "status": 200,
+    "partitionKeyRangeId": "12",
+    "activityId": "f116c03b-4775-4608-a1f7-9ff9bc4cd5c2",
+    "requestCharge": "28.98"
+  }
+]
