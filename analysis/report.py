@@ -300,7 +300,7 @@ arch = ['<h2 id="arch">A · Architecture — how a partial-HPK query routes, and
 arch.append('<p><b>Where that routing decision is made differs between the two SDKs.</b> When a query constrains a '
             '<em>prefix</em> of the hierarchical key (only <code>year</code>, or <code>year+month</code>), Cosmos can '
             'restrict execution to the physical partitions whose hash-range overlaps that prefix, rather than fan out '
-            'to all of them<sup><a href="#r1">[1]</a></sup>.</p>')
+            'to all of them<sup><a href="#r1">[1]</a></sup><sup><a href="#r2">[2]</a></sup>.</p>')
 arch.append(table(["", "Go (azcosmos)", ".NET (Microsoft.Azure.Cosmos, Direct)"],
     [["Who finds the partitions?", "Gateway (server-side, from WHERE)", "Client (cached partition-key-range map)"],
      ["Who serves the documents?", "Gateway pages them back", "Partition replicas directly (rntbd / TCP)"],
@@ -308,7 +308,7 @@ arch.append(table(["", "Go (azcosmos)", ".NET (Microsoft.Azure.Cosmos, Direct)"]
      ["Cross-partition aggregate (COUNT/DISTINCT)", "Refused (BadRequest)", "Client-side pipeline"],
      ["Gateway used for", "routing AND data", "metadata only (routing map, query plan)"],
      ["Direct / TCP mode available?", "No — gateway-only", "Yes — default"]], right_from=99, wrap=True))
-arch.append('<p><b>Go — gateway routes and serves.</b> azcosmos is gateway-only for queries; Direct/TCP mode exists '
+arch.append('<p><b>Go — gateway routes and serves.</b> azcosmos<sup><a href="#r7">[7]</a></sup> is gateway-only for queries; Direct/TCP mode exists '
             'only on the .NET and Java SDKs<sup><a href="#r3">[3]</a></sup>. The client passes an <em>empty</em> '
             'partition key plus the WHERE clause; the gateway parses it, prunes to the matching partition-key ranges, '
             'executes there, and pages results back — one round-trip per page. Cross-partition aggregates are refused '
@@ -414,7 +414,7 @@ if _net1 and _go1 and _net3 and _go3:
                 'gateway-served execution, and ODE does not apply to the 0-HPK full scan — exactly where the gap is '
                 'widest<sup><a href="#r4">[4]</a></sup>.</li>')
 secB.append('<li><b>The partial-<code>PartitionKey</code> trap is .NET-only</b> (Go can’t express it): a partial '
-            'PartitionKeyBuilder <em>without</em> a WHERE clause over-reads the whole physical partition (#5404<sup><a href="#r8">[8]</a></sup>). '
+            'PartitionKeyBuilder <em>without</em> a WHERE clause over-reads the whole physical partition<sup><a href="#r5">[5]</a></sup> (#5404<sup><a href="#r8">[8]</a></sup>). '
             'In Go the WHERE clause is the only path, which sidesteps that trap.</li>')
 secB.append('</ul>')
 
@@ -425,6 +425,8 @@ secB.append('<div><div class="cl2">.NET — SDK routes &amp; deserializes; optio
 secB.append('</div>')
 
 secB.append('<h3 class="h3">When to use which</h3>')
+secB.append('<p>Which SDK fits depends on the workload and, for Go specifically, the partitioning strategy'
+            '<sup><a href="#r12">[12]</a></sup>:</p>')
 secB.append(table(["Workload", "Recommended", "Why"], [
     ["Point reads/writes, single-partition queries", "Either", "Comparable RU & latency; Go is a touch leaner"],
     ["Filtered lists on a partial-HPK prefix", "Either — put the prefix in WHERE", "Both prune correctly to the prefix’s ranges"],
@@ -446,10 +448,11 @@ def _lnk(text, url):
 
 
 secC = ['<h2 id="src">C · Why they differ — a source-code walkthrough</h2>']
-secC.append('<p>Both SDKs talk to the same service; the behavioural differences come from the client libraries, not '
+secC.append('<p>Both SDKs talk to the same service; the behavioural differences come from the client libraries '
+            '(Go<sup><a href="#r13">[13]</a></sup>, .NET<sup><a href="#r14">[14]</a></sup>), not '
             'the service itself. This section traces the source of each. Three terms first, for readers new to Cosmos: a '
             '<b>physical partition</b> is a backend server holding a slice of the data; the service divides the key space '
-            'into <b>partition-key ranges</b> (one per physical partition); and a query must reach every range that could '
+            'into <b>partition-key ranges</b> (one per physical partition)<sup><a href="#r11">[11]</a></sup>; and a query must reach every range that could '
             'hold matching rows. <em>Where</em> an SDK decides which ranges to hit, and <em>how</em> it reads them, is the '
             'central difference between the two.</p>')
 secC.append('<p><b>In one sentence:</b> .NET is a <em>thick</em> client — it caches the partition map, plans the query, '
@@ -547,7 +550,9 @@ parts.append('</div>')
 parts.append('<p class="note">.NET counts distinct physical-partition GUIDs from Direct-mode store addresses (authoritative). '
              'Go counts distinct gateway <code>x-ms-documentdb-partitionkeyrangeid</code> headers — labelled gateway-reported. '
              'At 1-HPK <code>WHERE</code> <code>SELECT&nbsp;*</code> the two disagree (Go reports 3 ranges contacted, .NET '
-             'reports 2 GUIDs); the .NET GUID-based count is treated as authoritative throughout this report.</p>')
+             'reports 2 GUIDs); the .NET GUID-based count is treated as authoritative throughout this report. The 10 '
+             'physical partitions were forced by provisioning the container at 100,000 RU/s autoscale, then scaling down — '
+             'partition splits do not merge back<sup><a href="#r10">[10]</a></sup>.</p>')
 
 # ---- Section 2: WHERE vs PK vs WHERE+PK (the #5404 story), .NET, select form
 parts.append('<h2 id="s2">2 · WHERE vs PartitionKey vs both — RU by variant (.NET, SELECT *)</h2>')
