@@ -645,7 +645,9 @@ parts.append('<h2 id="s5">5 · Per-query — exact SQL, HPK used, and Go vs .NET
 parts.append(f'<p class="note">Query targets: year=<code>{esc(Y)}</code>, month=<code>{esc(M)}</code>, day=<code>{esc(D)}</code>. '
              'Each query shows its <b>exact SQL</b> and the <b>partition key used</b>, then latency vs concurrency '
              '(p50 solid · p95 dashed) and the full sweep data for both SDKs. Where Go cannot express or execute a query, '
-             'that is stated and only .NET is shown.</p>')
+             'that is stated and only .NET is shown. Several configs share the same SQL and differ only in the '
+             '<b>partition-key routing strategy</b> (named in each heading and the HPK line) — that contrast is the point '
+             'of this section, not duplicated data.</p>')
 
 _go_keys = {(c["depth"], c["variant"], c["form"]) for c in cells if c["sdk"] == "go"}
 _net_keys = {(c["depth"], c["variant"], c["form"]) for c in cells if c["sdk"] == "dotnet"}
@@ -681,6 +683,21 @@ def _go_status(depth, variant, form):
     return "Go cannot express this — the azcosmos query API requires a full or empty partition key (all levels or none); a partial prefix must go in the WHERE clause instead"
 
 
+def _strategy(depth, variant):
+    """Plain-language routing strategy — disambiguates configs that share the same SQL."""
+    lv = {"3-hpk": 3, "2-hpk": 2, "1-hpk": 1, "0-hpk": 0}[depth]
+    if depth == "0-hpk":
+        return "full scan, no partition key"
+    keylab = "full key" if lv == 3 else f"{lv}-level partial key"
+    if variant == "where":
+        return "routed by WHERE prefix, no explicit key"
+    if variant == "pk":
+        return f"explicit {keylab}, no WHERE"
+    if variant == "where+pk":
+        return f"WHERE + explicit {keylab}"
+    return ""
+
+
 _allkeys = sorted(_net_keys, key=lambda k: (DEPTH_ORDER.index(k[0]) if k[0] in DEPTH_ORDER else 9, k[1], k[2]))
 for _depth, _variant, _form in _allkeys:
     def _row(sdk, cc, field, d=_depth, v=_variant, f=_form):
@@ -693,7 +710,7 @@ for _depth, _variant, _form in _allkeys:
             _ys = [_row(_sdk, cc, _stat) for cc in concs]
             if any(y is not None for y in _ys):
                 _lat[f"{_sdk} {_stat}"] = _ys
-    parts.append(f'<h3 class="h3">{esc(_depth)} · {esc(_variant)} · {esc(_form)}</h3>')
+    parts.append(f'<h3 class="h3">{esc(_depth)} · {esc(_variant)} · {esc(_form)} — {esc(_strategy(_depth, _variant))}</h3>')
     parts.append(f'<div class="qsql"><span class="ql">SQL</span><code>{esc(_q_exact(_depth, _variant, _form))}</code></div>')
     parts.append(f'<div class="qsql"><span class="ql">HPK</span><code>{esc(_hpk_used(_depth, _variant))}</code></div>')
     if _status:
