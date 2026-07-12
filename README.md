@@ -112,69 +112,60 @@ run-all.sh                 orchestrates deploy -> generate -> scale-down -> quer
 
 ## Reproduce the published results
 
-The published dataset requires editing `.env` between `deploy` and `generate`, so use the
-**step-by-step** flow below — the one-shot `./run-all.sh` uses `deploy.sh`'s template defaults
-(500 orders/day, ~30k RU/s) and will **not** reproduce the 1.27M-doc / 10-partition run.
+**One command.** The defaults reproduce the published ~1.27M-doc / 10-partition run:
 
 ```bash
 az login && az account set -s <SUBSCRIPTION>
+./run-all.sh
 ```
 
-1. **Set the throughput to force 10 partitions.** Edit `infra/main.parameters.json` and set
-   `maxThroughput` to `100000` (the Bicep `@maxValue`). Each ~10,000 RU/s ≈ one physical
-   partition, so 100,000 → ~10 partitions during load. **This is the expensive knob — see costs.**
+`run-all.sh` runs the whole pipeline — **deploy → generate ~1.27M docs → scale down → run the
+.NET and Go query clients → build `analysis/report.html`** — then reminds you to tear down.
+`deploy.sh` writes a ready-to-use `.env` (endpoint, key, and every knob pre-filled with the
+published values), so **there is nothing to edit by hand**. It prompts once to confirm the spend
+(provisioning bills real money — see [Cost & teardown](#cost--teardown)); pass `CONFIRM=1` to skip
+the prompt in automation.
 
-2. **Provision** (creates the resource group + account, writes `.env`):
-   ```bash
-   ./infra/deploy.sh          # region defaults to australiaeast (override with LOCATION=...)
-   ```
+Needs `az login` (above) plus the tools in [Prerequisites](#prerequisites): .NET 10, Go 1.26+, python3.
 
-3. **Edit the generated `.env`** so it matches the published run (deploy.sh writes template
-   defaults). Set at least:
-   ```
-   GEN_ORDERS_PER_DAY=1000    # deploy.sh writes 500 — must change to reproduce ~1.27M docs
-   SWEEP_MAX_CONCURRENCY=6
-   CELL_SECONDS=10            # code default is 12; published run used 10
-   TARGET_MAX=10000           # scale-down floor (see step 5)
-   ```
-   (`.env.example` shows the full set of knobs with published values.)
+### Cheaper / smaller run
 
-4. **Generate + bulk-load** ~1.27M orders and write `config/seed-manifest.json`:
-   ```bash
-   cd src/DataGenerator && dotnet run -c Release && cd ../..
-   ```
-   Targets baked into the manifest: `year=2024, month=03, day=15` (day ≈ 1,000 docs,
-   month ≈ 31,000, year ≈ 636,000).
+Override any knob in the environment first — no file edits:
 
-5. **Scale down** to the idle floor (physical partitions persist, so routing stays observable):
-   ```bash
-   ./infra/scale-down.sh      # -> 10,000 RU/s (min for a 100k container)
-   ```
+```bash
+# small, cheap smoke run: ~2 partitions, ~200 orders/day
+COSMOS_MAX_THROUGHPUT=20000 GEN_ORDERS_PER_DAY=200 ./run-all.sh
+```
 
-6. **Run the .NET query client** (rich probe + concurrency sweep → `diagnostics/dotnet/`):
-   ```bash
-   cd src/DotNetQueryClient && dotnet run -c Release && cd ../..
-   ```
+`COSMOS_MAX_THROUGHPUT` (RU/s at load; ≈10,000 per physical partition) is the main cost/partition
+lever. Other knobs: `GEN_ORDERS_PER_DAY`, `GEN_NUM_DAYS`, `GEN_BUSY_MONTH_MULT`,
+`SWEEP_MAX_CONCURRENCY`, `CELL_SECONDS`, `TARGET_MAX`, `LOCATION`. See `.env.example` for the full
+list with the published values.
 
-7. **Run the Go query client** (→ `diagnostics/go/`):
-   ```bash
-   cd src/go-query-client && go run . && cd ../..
-   ```
+### Run stages individually
 
-8. **Build the report** and open it:
-   ```bash
-   python3 analysis/report.py       # -> analysis/report.html
-   open analysis/report.html        # macOS  (Linux: xdg-open)
-   ```
+Skip stages with `SKIP_DEPLOY=1` / `SKIP_GEN=1` / `SKIP_SCALEDOWN=1`, or run them by hand:
+
+```bash
+./infra/deploy.sh                                            # provision + write .env
+cd src/DataGenerator     && dotnet run -c Release && cd ../..  # generate ~1.27M docs + manifest
+./infra/scale-down.sh                                       # drop to idle floor (10,000 RU/s)
+cd src/DotNetQueryClient && dotnet run -c Release && cd ../..  # -> diagnostics/dotnet/
+cd src/go-query-client   && go run .              && cd ../..  # -> diagnostics/go/
+python3 analysis/report.py                                  # -> analysis/report.html
+```
+
+Query targets baked into `config/seed-manifest.json`: `year=2024, month=03, day=15`
+(day ≈ 1,000 docs, month ≈ 31,000, year ≈ 636,000).
 
 Published run parameters, for reference:
 
-| Parameter | Published value | Where set |
+| Parameter | Published value | Env knob (override before deploy) |
 |---|---|---|
-| Region | `australiaeast` | `LOCATION` in `infra/deploy.sh` |
-| Autoscale max during load | **100,000 RU/s** (→ ~10 partitions) | `maxThroughput` in `infra/main.parameters.json` |
-| Autoscale max after scale-down | **10,000 RU/s** | `TARGET_MAX` (scale-down.sh) |
-| Orders/day | **1,000** (busy month 2024-06 × 10) → ~1.27M docs | `GEN_ORDERS_PER_DAY`, `GEN_BUSY_MONTH*` |
+| Region | `australiaeast` | `LOCATION` |
+| Autoscale max during load | **100,000 RU/s** (→ ~10 partitions) | `COSMOS_MAX_THROUGHPUT` |
+| Autoscale max after scale-down | **10,000 RU/s** | `TARGET_MAX` |
+| Orders/day | **1,000** (busy month 2024-06 × 10) → ~1.27M docs | `GEN_ORDERS_PER_DAY`, `GEN_BUSY_MONTH_MULT` |
 | Query targets | `year=2024, month=03, day=15` | generated into `config/seed-manifest.json` |
 | Concurrency sweep | `maxConc=6`, `cell=10s` | `SWEEP_MAX_CONCURRENCY`, `CELL_SECONDS` |
 
@@ -213,12 +204,6 @@ The report and committed diagnostics contain the Cosmos **account name / endpoin
 (`cosmos-hpk-…-australiaeast.documents.azure.com`). That is a non-secret identifier, and the
 account has been torn down. The account **key** is never committed — it lives only in the
 git-ignored `.env`.
-
-## Known limitation
-
-- A bare `./run-all.sh` uses `deploy.sh`'s `.env` template defaults for the dataset knobs and does
-  **not** set the 100,000 RU/s throughput, so it will **not** reproduce the published 1.27M-doc /
-  10-partition run. Use the step-by-step flow above, which sets the throughput and `.env` knobs.
 
 ## License
 

@@ -2,8 +2,9 @@
 # Scale the container's autoscale max down to its minimum AFTER data is loaded.
 # Physical partitions created during the high-throughput load do NOT merge back,
 # so routing behaviour stays observable while idle cost drops to the ~10% floor.
-# NOTE: the minimum autoscale max is max(1000, highestProvisioned/10). Since we
-# provisioned 30000 to force 3 partitions, the floor here is 3000 (not 1000).
+# NOTE: the minimum autoscale max is max(1000, highestProvisioned/10). The published
+# run provisioned 100000 to force ~10 partitions, so the floor is 10000 (not 1000).
+# TARGET_MAX comes from the .env deploy.sh wrote; override by exporting TARGET_MAX.
 set -euo pipefail
 
 AZ="${AZ:-az}"
@@ -20,7 +21,7 @@ RG="${COSMOS_RG:-rg-cosmos-hpk-test}"
 ACCOUNT="${COSMOS_ACCOUNT:?Set COSMOS_ACCOUNT (run deploy.sh first)}"
 DB="${COSMOS_DATABASE:-ordersdb}"
 CONTAINER="${COSMOS_CONTAINER:-orders}"
-TARGET_MAX="${TARGET_MAX:-3000}"
+TARGET_MAX="${TARGET_MAX:-10000}"
 
 echo ">> Scaling container '$CONTAINER' autoscale max to $TARGET_MAX RU/s..."
 $AZ cosmosdb sql container throughput update \
