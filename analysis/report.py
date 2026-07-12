@@ -7,6 +7,7 @@ metric tables. Pure standard library.
 """
 import json
 import html
+import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -170,8 +171,19 @@ def depth_series(field, form="select"):
     return out
 
 
+# Test date = when the diagnostic outputs were last written (i.e. the run date),
+# derived from the data files so it always reflects the actual experiment.
+_diag_mtimes = [(DIAG / sdk / n).stat().st_mtime
+                for sdk in ("dotnet", "go") for n in ("metrics.json", "cells.json")
+                if (DIAG / sdk / n).exists()]
+TEST_DATE = datetime.date.fromtimestamp(max(_diag_mtimes)).strftime("%B %-d, %Y") if _diag_mtimes else None
+REPO_URL = "https://github.com/vineethvarghese/cosmosdb-hpk"
+
 parts = []
 parts.append(f"<h1>Cosmos DB Hierarchical Partition Keys — Go vs .NET deep analysis</h1>")
+_meta = (f"Tested {TEST_DATE} · " if TEST_DATE else "") + \
+    f'<a href="{REPO_URL}">Source &amp; test data on GitHub ↗</a>'
+parts.append(f'<p class="meta">{_meta}</p>')
 nrich = len([m for m in metrics if not m.get("error")])
 parts.append(f'<p class="sub">{nrich} query configs profiled · concurrency sweep 1–{max((c["concurrency"] for c in cells), default=6)} · '
              f'depth = number of HPK levels constrained. RU is server-computed, but not identical across SDKs — Go runs '
@@ -774,6 +786,7 @@ body{margin:0 auto;max-width:1060px;padding:32px 24px 64px;background:var(--bg);
 h1{font-size:29px;line-height:1.15;letter-spacing:-.02em;margin:0 0 6px;text-wrap:balance;font-weight:700}
 h2{font-size:18px;letter-spacing:-.01em;margin:40px 0 12px;padding-bottom:7px;border-bottom:1px solid var(--border);font-weight:650;text-wrap:balance}
 .sub{color:var(--muted);margin:0 0 6px;max-width:72ch}
+.meta{color:var(--muted);margin:0 0 10px;font-size:12.5px;font-variant-numeric:tabular-nums}.meta a{font-weight:600}
 .abstract{background:var(--card);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:8px;padding:14px 18px;margin:16px 0;font-size:14px;line-height:1.62;max-width:82ch}
 .abstract b{font-weight:700}
 .toc{margin:18px 0 6px}.toc .toctitle{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:700;margin-bottom:7px}
