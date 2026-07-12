@@ -15,7 +15,8 @@ required.
 
 ## Headline finding
 
-On a **~1.27M-document** orders container spread across **10 physical partitions**:
+On a **~1.27M-document** orders container spread across **10 physical partitions** (measured
+July 2026 in `australiaeast`):
 
 - **Prefix depth prunes fan-out.** A full 3-level-key query (`year+month+day`) is served from a
   **single** partition; an unfiltered scan fans out to **all 10**. Request charge (RU) and bytes
@@ -32,7 +33,7 @@ On a **~1.27M-document** orders container spread across **10 physical partitions
 
 > **Absolute latency and throughput numbers will vary** with region, hardware, and time of day.
 > The **RU costs** and the **partition-routing behaviour** (which query touches how many
-> partitions) are the reproducible results — see the note at the end.
+> partitions) are the reproducible results.
 
 ## Where the results live
 
@@ -196,7 +197,8 @@ az cosmosdb sql container show -g rg-cosmos-hpk-test -a <account> -d ordersdb -n
 ```
 
 The `.NET` query client also prints the container's physical-partition (feed-range) count at
-startup; if it prints `1`, the routing gradient will be flat (raise `maxThroughput` and reload).
+startup; if it prints `1`, the routing gradient will be flat (raise `COSMOS_MAX_THROUGHPUT` and
+reload).
 
 ## Note on the published account identifier
 
