@@ -5,6 +5,11 @@ A reproducible benchmark of Azure Cosmos DB **hierarchical partition keys** (HPK
 request cost, and how the **Go** (`azcosmos`) and **.NET** (`Microsoft.Azure.Cosmos`) SDKs
 differ when running the same queries.
 
+### 📊 [Read the full report online →](https://vineethvarghese.github.io/cosmosdb-hpk/)
+
+Hosted on GitHub Pages — charts, per-query tables, and an SDK source-code walkthrough, no setup
+required.
+
 > **Disclaimer:** this is a benchmark/experiment, not production code. It provisions real,
 > billable Azure resources. Read the **Cost & teardown** section before running it.
 
@@ -31,8 +36,10 @@ On a **~1.27M-document** orders container spread across **10 physical partitions
 
 ## Where the results live
 
-- **`analysis/report.html`** — the full self-contained report (inline SVG charts, per-query
-  tables, an SDK source-code walkthrough, and references). **Open it in a browser:**
+- **[Live report (GitHub Pages)](https://vineethvarghese.github.io/cosmosdb-hpk/)** — the published
+  report, viewable in any browser with no download.
+- **`analysis/report.html`** — the same report as a self-contained local file (inline SVG charts,
+  per-query tables, an SDK source-code walkthrough, and references). **Open it in a browser:**
   `open analysis/report.html` (macOS) / `xdg-open analysis/report.html` (Linux). No server or
   assets required.
 - **`diagnostics/dotnet/` and `diagnostics/go/`** — the raw test results the report is built from:
